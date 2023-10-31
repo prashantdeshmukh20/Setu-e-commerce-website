@@ -1,0 +1,35 @@
+.easy{
+    display:flex;
+}
+
+.item{
+    align-items:center;
+}
+
+.justify{
+    justify-content: center;
+}
+
+.distance{
+    justify-content: space-between;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.rio{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.riola{
+    margin: 12px 0;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
